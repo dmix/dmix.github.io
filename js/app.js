@@ -1,0 +1,1 @@
+$(function(){console.log("Initializing Resume..."),$(".copyright--year").html(new Date().getFullYear())});
